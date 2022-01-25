@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shayne Preston (@prests)
+- 👀 I’m interested in web applications
+- 📫 How to reach me checkout my website
