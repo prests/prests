@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shayne Preston (@prests)
 - 👀 I’m interested in web applications
-- 📫 How to reach me checkout my website
+- 📫 Reach me at my website <a href="https://www.shaynepreston.com" target="_blank">shaynepreston.com</a>
